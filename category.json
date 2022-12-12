@@ -1,0 +1,42 @@
+[
+    {
+        "category_id": 1,
+        "picture": "https://i.ibb.co/5KhPdFP/elisa-calvet-b-S3n-UOq-Dm-Uvc-unsplash.jpg",
+        "Name": "Edu-Hub",
+        "rating": {
+            "1": "Excellent",
+            "2": "Good",
+            "3": "Fair"
+        },
+        "mobileNumber": "+880 1512399776",
+        "description": "Education is a purposeful activity directed at achieving certain aims, such as transmitting knowledge or fostering skills and character traits."
+    },
+    {
+        "category_id": 1,
+        "picture": "https://i.ibb.co/GQ9yKrB/jaredd-craig-HH4-WBGNyltc-unsplash.jpg",
+        "Name": "Perfect-Learn",
+        "rating": {
+            "1": "Excellent",
+            "2": "Good",
+            "3": "Fair"
+        },
+        "mobileNumber": "+880 1512399776",
+        "description": "Education is a purposeful activity directed at achieving certain aims, such as transmitting knowledge or fostering skills and character traits."
+    },
+    {
+        "category_id": 2,
+        "picture": "https://i.ibb.co/J2RJzjW/kevin-mueller-Q-f-L04-Rhu-Mg-unsplash.jpg",
+        "Name":"Sporting Sparkle",
+        "rating": {"1": "Excellent", "2":"Good", "3":"Fair" },
+        "mobileNumber": "+880 1512399776",
+        "description": "Sport pertains to any form of competitive physical activity or game that aims to use, maintain, or improve physical ability and skills while providing enjoyment."
+    },
+    {
+        "category_id": 2,
+        "picture": "https://i.ibb.co/9NLt3wX/connor-coyne-Ogq-WLz-WRSa-I-unsplash.jpg",
+        "Name":"Sports News",
+        "rating": {"1": "Excellent", "2":"Good", "3":"Fair" },
+        "mobileNumber": "+880 1512399776",
+        "description": "'Sport' is understood to mean all forms of physical activity that contribute to physical fitness, mental well-being and social interaction."
+    }
+]
